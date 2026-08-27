@@ -1,4 +1,4 @@
-module github.com/365vpn/x365
+module github.com/365vpn/365vpn-protocol
 
 go 1.26
 
